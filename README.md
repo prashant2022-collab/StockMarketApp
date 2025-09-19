@@ -1,4 +1,4 @@
-# StockMarketApp
+
 # StockMarketApp
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-100%25-blue.svg)](https://kotlinlang.org/)  
