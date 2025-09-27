@@ -41,7 +41,14 @@ This app fetches stock market data, displays it to users, and is designed to be 
 - Android Studio (latest stable version)  
 - Android device or emulator with appropriate API level  
 - Internet connection (for fetching stock data)  
-- Required permissions (e.g. Internet access)  
+- Required permissions (e.g. Internet access)
+- 
+##  some glimpses 
+
+![screenshot2](https://github.com/user-attachments/assets/592117e6-237b-426f-bb94-f54c6e6467ac)
+![screenshot1](https://github.com/user-attachments/assets/ecef1e81-6a84-44a6-a8c6-0c1480179176)
+
+
 
 ---
 
